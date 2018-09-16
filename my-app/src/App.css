@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+
+.App {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+.App-logo {
+	height: 80px;
+}
+
+.App-header {
+	background-color: #836af3;
+	height: 150px;
+	padding: 20px;
+	color: rgb(2, 2, 2);
+}
+
+.App-title {
+	font-size: 1cm;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-display: center;
+}
+
+.App-intro {
+	font-size: xx-large;
+	
+}
